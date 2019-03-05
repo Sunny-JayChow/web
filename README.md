@@ -1,2 +1,2 @@
-# web
-第一次使用github
+
+First time to use Github
